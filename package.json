@@ -1,0 +1,30 @@
+{
+	"name": "ckeditor-image-upload-express",
+	"version": "1.0.0",
+	"description": "Endpoint for testing CKeditor image upload",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MithunKarthick/ckeditor-image-upload-express.git"
+	},
+	"keywords": [
+		"CKEditor",
+		"CKEditor5"
+	],
+	"author": "Mithun",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"multer": "^1.4.2",
+		"uuidv4": "^6.2.0"
+	},
+	"bugs": {
+		"url": "https://github.com/MithunKarthick/ckeditor-image-upload-express/issues"
+	},
+	"homepage": "https://github.com/MithunKarthick/ckeditor-image-upload-express#readme"
+}
